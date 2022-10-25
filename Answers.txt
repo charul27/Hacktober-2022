@@ -1,0 +1,7 @@
+Ans 1: RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supports multiple messaging protocols. RabbitMQ is a messaging broker - an intermediary for messaging. It gives your applications a common platform to send and receive messages.
+It gives your applications a common platform to send and receive messages, and your messages a safe place to live until received.
+
+Ans 2: REST requires that a client make a request to the server in order to retrieve or modify data on the server. A request generally consists of: an HTTP verb, which defines what kind of operation to perform. a header, which allows the client to pass along information about the request. 
+a path to a resource.
+
+Ans 3: Microservices are an architectural style that develops a single application as a set of small services. Each service runs in its own process. The services communicate with clients, and often each other, using lightweight protocols, often over messaging or HTTP.
